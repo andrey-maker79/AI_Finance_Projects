@@ -1,56 +1,35 @@
-# 💰 AI Finance Projects Super Pack
+# AI Finance Projects
 
-![Finance Pie Chart](starter-budget-ai/charts/budget_pie_chart.png)
+Open-source collection of AI-assisted financial analysis tools.
 
-Welcome to the **AI Finance Projects Super Pack** — a collection of AI-assisted tools for budgeting, expense tracking, rent calculation, and cost-of-living comparison.
+## Projects
 
----
+- Budget analysis tools
+- Expense tracking datasets
+- Rent and cost-of-living analysis
+- Financial visualization charts
 
-## 📊 Starter Budget AI
-![Monthly Expenses Line Chart](starter-budget-ai/charts/monthly_expenses_line_chart.png)
+## Features
 
-- Tracks monthly budget automatically
-- JSON datasets: `starter-budget-ai/data/budget.json`, `starter-budget-ai/data/monthly_expenses.json`
-- Pie chart for budget distribution
-- Line chart for monthly expense trends
+- Financial datasets (JSON / CSV)
+- Data visualization (charts and graphs)
+- Examples of AI-assisted budgeting
 
----
+## Use Case
 
-## 📝 AI Expense Tracker
+This repository demonstrates how AI models can help users
+analyze personal expenses, plan budgets and understand
+cost-of-living trends.
 
-- Tracks daily and monthly expenses
-- JSON dataset: `ai-expense-tracker/data/expenses.json`
-- Ready for AI analysis
+## Repository Structure
 
----
+AI_Finance_Projects
+ ├ starter-budget-ai
+ ├ ai-expense-tracker
+ ├ ai-rent-calculator
+ ├ ai-cost-of-living
+ └ openai_application
 
-## 🏠 AI Rent Calculator
+## License
 
-- Calculates recommended rent based on income
-- JSON dataset: `ai-rent-calculator/data/rent.json`
-
----
-
-## 🌍 AI Cost of Living
-
-- Compares rent and food expenses in different cities
-- JSON dataset: `ai-cost-of-living/data/cost_of_living.json`
-
----
-
-## 🤖 OpenAI Application
-
-- OSS Application text and JSON data
-- Files:
-  - `openai_application/OPENAI_APPLICATION_TEXT.md`
-  - `openai_application/data/application_info.json`
-
----
-
-## 🚀 Usage
-
-1. Open the JSON files in each project folder  
-2. Use data for AI experiments, visualization, or personal finance projects  
-3. Check charts in `starter-budget-ai/charts/` for visual reference  
-
-Made with ❤️ for AI-assisted finance projects.
+MIT License
