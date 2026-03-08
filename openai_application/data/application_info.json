@@ -1,0 +1,5 @@
+﻿{
+  "project": "Starter Budget AI & Related Repositories",
+  "goal": "AI-assisted budgeting, expense tracking, and cost-of-living analysis",
+  "features": ["JSON datasets", "Pie Chart", "Line Chart", "Ready for OpenAI Codex experiments"]
+}

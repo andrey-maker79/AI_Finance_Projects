@@ -1,0 +1,5 @@
+﻿{
+  "income": 1500,
+  "expenses": {"rent":750,"food":450,"other":300},
+  "currency":"EUR"
+}
